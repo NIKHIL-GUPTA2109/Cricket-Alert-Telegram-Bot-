@@ -2,7 +2,7 @@
 Cricket Alert Telegram Bot developed in Python
 How to run
 clone this repository :-
-git clone https://github.com/Divyansh747/Cricket-Alert-Bot.git
+git clone https://github.com/NIKHIL-GUPTA2109/Cricket-Alert-Telegram-Bot-
 
 create bot in telegram
 create new group and your bot with Admin privileges
